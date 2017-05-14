@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaRegistrosClientes", "TareaRegistrosClientes\TareaRegistrosClientes.csproj", "{E94D2367-9E01-477C-8CF7-D0AD310FA70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaRegistrosClientes.Tests", "TareaRegistrosClientes.Tests\TareaRegistrosClientes.Tests.csproj", "{8F8AE401-85E1-4BEA-922D-D6B4B3C8DAFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94D2367-9E01-477C-8CF7-D0AD310FA70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D2367-9E01-477C-8CF7-D0AD310FA70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D2367-9E01-477C-8CF7-D0AD310FA70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D2367-9E01-477C-8CF7-D0AD310FA70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F8AE401-85E1-4BEA-922D-D6B4B3C8DAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8AE401-85E1-4BEA-922D-D6B4B3C8DAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8AE401-85E1-4BEA-922D-D6B4B3C8DAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8AE401-85E1-4BEA-922D-D6B4B3C8DAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
